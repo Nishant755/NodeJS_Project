@@ -1,0 +1,32 @@
+{
+  "name": "nodejs_project.git",
+  "version": "1.0.0",
+  "description": "Create a NodeJS Project.",
+  "main": "- Install MySQL Database as your Dependency.",
+  "scripts": {
+    "test": "- q: string - Translation content",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishant755/NodeJS_Project.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nishant Jambhulkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishant755/NodeJS_Project/issues"
+  },
+  "homepage": "https://github.com/Nishant755/NodeJS_Project#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
